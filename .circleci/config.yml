@@ -24,6 +24,6 @@ jobs:
           command: npm install
 
       # run tests!
-      - run: npm run lint
+      - run:
           name: "Running lint"
           command: npm run lint
