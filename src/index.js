@@ -5,3 +5,4 @@ console.log(b);
 alert(a);
 alert(a);
 alert(a);
+alert(a);
