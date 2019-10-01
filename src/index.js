@@ -8,3 +8,4 @@ alert(a);
 alert(a);
 alert(a);
 console.log(b);
+console.log(b);
